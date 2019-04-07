@@ -1,6 +1,14 @@
 # Check pfSense
 Nagios/Icinga script to check pfsense devices
 
+It's a combination of two pre-existing script:
+
+https://gitlab.unetresgrossebite.com/DevOps/puppet/blob/30bf4d18dd98d5dc1b658be56a312051f61ac9bc/modules/nagios/files/custom_plugins/check_pfsense
+
+which I improved with parts of
+
+https://github.com/diogouchoas/check_pfsense/blob/master/check_pfsense.sh
+
 # Usage:
 ```
    -H   Hostname to query - (required)
