@@ -1,3 +1,9 @@
+This plugin is no longer actively developed.
+
+All improvements were merged to https://github.com/diogouchoas/check_pfsense/
+
+
+
 # Check pfSense
 Nagios/Icinga script to check pfsense devices
 
@@ -7,7 +13,7 @@ https://gitlab.unetresgrossebite.com/DevOps/puppet/blob/30bf4d18dd98d5dc1b658be5
 
 which I improved with parts of
 
-https://github.com/diogouchoas/check_pfsense/blob/master/check_pfsense.sh
+https://github.com/diogouchoas/check_pfsense/
 
 # Usage:
 ```
